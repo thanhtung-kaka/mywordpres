@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://thanhtung-kaka.github.io/thanhtung0104/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+								<a href="https://thanhtung-kaka.github.io/thanhtung0104/lost-password/?page_id=17">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
